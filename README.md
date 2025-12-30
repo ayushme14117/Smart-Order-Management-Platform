@@ -176,6 +176,3 @@ Every architectural choice is intentional and documented.
 
 ---
 
-## ⭐ Why This Project Exists
-
-To demonstrate how a senior backend engineer thinks — not just how they code.
